@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @omarco0227
+- 👀 I’m interested in Python
